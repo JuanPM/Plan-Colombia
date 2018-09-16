@@ -7,5 +7,7 @@ The main goal of this analysis was to determine if Plan Colombia has reached its
 The Data for this analysis came from several different sources:
 
 Crops Data from the UNODC: https://www.unodc.org/unodc/en/crop-monitoring/index.html?tag=Colombia
+
 Seized Cocaine from the UNODC: https://data.unodc.org/#state:11
+
 Drug Use in the USA from the United States Department of Health and Human Services. I downloaded the results of the National Household Survey on Drug Abuse for every year starting on 1994 and ending on 2014. The datasets can be found here:  https://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp
