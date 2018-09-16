@@ -2,6 +2,8 @@
 
 This repository hold the Data Sets used for my Plan Colombia analysis. 
 
+You can find a description of Plan Colombia here: https://en.wikipedia.org/wiki/Plan_Colombia
+
 The main goal of this analysis was to determine if Plan Colombia has reached its initial goals: reduce cocaine production in Colombia, seize larger amounts of cocaine going to the US, and reduce consumption of cocaine in the US population. I also examined the trend of people reporting to have been less active due to cocaine use. 
 
 The Data for this analysis came from several different sources:
