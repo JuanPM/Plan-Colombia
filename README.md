@@ -14,3 +14,4 @@ Seized Cocaine from the UNODC: https://data.unodc.org/#state:11
 
 Drug Use in the USA from the United States Department of Health and Human Services. I downloaded the results of the National Household Survey on Drug Abuse for every year starting on 1994 and ending on 2014. The datasets can be found here:  https://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp
 
+You can find my take on this data here: https://github.com/JuanPM/Plan-Colombia/blob/master/Plan%20Colombia%20Essay.pdf
